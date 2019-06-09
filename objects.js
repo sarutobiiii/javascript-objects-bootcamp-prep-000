@@ -1,3 +1,3 @@
 var playlist = {miguel: "girl with the tattoo"}
 
-function updatePlaylist(Object)
+function updatePlaylist(obj, key, value)
