@@ -5,5 +5,5 @@ function updatePlaylist(obj, String, value) {
 }
 
 function removeFromPlaylist(obj, string) {
-   return Object
+   delete playlist.
 }
