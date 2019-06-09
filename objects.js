@@ -1,3 +1,3 @@
-var playlist = {new Object([partyNextDoor: "break from toronto"}])
+var playlist = {miguel: "girl with the tattoo"}
 
 function updatePlaylist(Object)
